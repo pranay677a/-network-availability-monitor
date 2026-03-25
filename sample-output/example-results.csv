@@ -1,0 +1,5 @@
+timestamp,device,status,latency_ms,packet_loss_percent,alert
+2026-03-25 18:10:00,8.8.8.8,UP,24.0,0.0,OK
+2026-03-25 18:10:00,1.1.1.1,UP,18.0,0.0,OK
+2026-03-25 18:10:00,google.com,UP,30.0,0.0,OK
+2026-03-25 18:10:00,localhost,UP,1.0,0.0,OK
